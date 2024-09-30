@@ -26,7 +26,8 @@ In last Thursday's class, my partner and I focused on refining the wheel setup f
 
 ![Workshop Scene](https://github.com/ramawid/Performing-Robots/blob/c12ca7215de2147678c8d2976de3ab1deb2c4c76/IMG_1972.jpg)
 
-
 Unfortunately, we miscalculated the length of the wooden spacers, and the board ended up sitting evenly on all four wheels, which eliminated the necessary wobble. To fix this, we removed one of the wheels and replaced the wooden spacer with a smaller piece, creating the imbalance we need.
+
+![Workshop Scene 2](https://github.com/ramawid/Performing-Robots/blob/c12ca7215de2147678c8d2976de3ab1deb2c4c76/IMG_1972.jpg)
 
 Throughout the process, we used screws to attach everything securely, making pilot and through holes where needed. Looking ahead, our plan for the next class is to add the wires and start the soldering process.
