@@ -24,7 +24,7 @@ Lastly, we installed the motors with the wheels onto the wooden board with M4 nu
 ## October 1 2024
 In last Thursday's class, my partner and I focused on refining the wheel setup for our project. Initially, we had two larger wheels attached, and during this session, we worked on adding two smaller wheels. It’s crucial to maintain a bit of wobble in the board to prevent it from getting stuck during the performance. However, the smaller wheels were too short, so we decided to cut small wooden spacers to fit between the wheels and the board, raising the wheels to the right height.[
 
-![Workshop Scene](https://github.com/ramawid/Performing-Robots/blob/c12ca7215de2147678c8d2976de3ab1deb2c4c76/IMG_1972.jpg)
+![Workshop Scene](https://github.com/ramawid/Performing-Robots/blob/c12ca7215de2147678c8d2976de3ab1deb2c4c76/IMG_1971.jpg)
 
 Unfortunately, we miscalculated the length of the wooden spacers, and the board ended up sitting evenly on all four wheels, which eliminated the necessary wobble. To fix this, we removed one of the wheels and replaced the wooden spacer with a smaller piece, creating the imbalance we need.
 
