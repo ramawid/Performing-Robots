@@ -31,3 +31,6 @@ Unfortunately, we miscalculated the length of the wooden spacers, and the board 
 ![Workshop Scene 2](https://github.com/ramawid/Performing-Robots/blob/c12ca7215de2147678c8d2976de3ab1deb2c4c76/IMG_1972.jpg)
 
 Throughout the process, we used screws to attach everything securely, making pilot and through holes where needed. Looking ahead, our plan for the next class is to add the wires and start the soldering process.
+
+## October 3 2024
+Questions : How do we define a human? Is it a soul? A body? Can it be recreated? What is the one essential differernce between a human and a robot? Why can a robot never become a human? Is it due to the lack of soul?
