@@ -39,7 +39,8 @@ Questions : How do we define a human? Is it a soul? A body? Can it be recreated?
 
 Hat Movement: The detective’s hat is designed to move up and down using a small servo motor. This feature triggers when the robot says certain phrases, adding an animated effect that brings the character to life.
 Eyeball Animation: The detective’s eyes, equipped with Neopixel LEDs, not only move around but also look down at the puppet when it speaks. This gives the impression of real interaction between the detective and its puppet companion.
-LED Eye Emotions: The LEDs in the detective’s eyes change colors to express different emotions. ![IMG_3399](https://github.com/user-attachments/assets/a6b42a00-b827-4451-9a23-b817c3b2f074)
-For example, the eyes might glow red when the detective is serious or blue when in deep thought, providing an additional layer of emoti![IMG_3398](https://github.com/user-attachments/assets/9823448a-0926-441e-a2c7-900c1d5cd3dd)
-onal depth.
+LED Eye Emotions: The LEDs in the detective’s eyes change colors to express different emotions. For example, the eyes might glow red when the detective is serious or blue when in deep thought, providing an additional layer of emotional depth.
 Puppet Jaw Movement: A motor in the puppet’s jaw opens and closes its mouth, synchronized with its speech, as if it’s genuinely engaging in conversation with the detective.
+![IMG_3399](https://github.com/user-attachments/assets/a6b42a00-b827-4451-9a23-b817c3b2f074)
+![IMG_3398](https://github.com/user-attachments/assets/9823448a-0926-441e-a2c7-900c1d5cd3dd)
+
