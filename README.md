@@ -52,3 +52,30 @@ A motor in the puppet’s jaw opens and closes its mouth, synchronized with its 
 ![IMG_3399](https://github.com/user-attachments/assets/a6b42a00-b827-4451-9a23-b817c3b2f074)
 ![IMG_3398](https://github.com/user-attachments/assets/9823448a-0926-441e-a2c7-900c1d5cd3dd)
 
+## October 29 2024
+
+Today, we focused on completing the framework of the robot, assembling all the key components to support the sock puppet arm. Next, we attempted to design a mechanism for moving the jaw to simulate speech using a servo motor. However, we encountered a problem—the servo motor we attached to the wooden pieces with hot glue turned out to be faulty. Our next step will be to carefully remove the hot glue and replace it with a functional motor.
+
+## October 31 2024
+
+Today, we discovered that the sock puppet's jaw didn't open as wide as we intended. To address this, we began prototyping with cardboard to determine the adjusted length needed for the jaw mechanism and experimented with different angles. Our professor suggested using aluminum to improve durability, which we plan to explore further. Additionally, my partner noticed that part of our Arduino shield had melted and spent time repairing it.
+
+## November 5 2024
+
+Today, we finalized our puppet by fabricating three pieces out of aluminum. The first piece rotates with the servo motor, the second serves as a bridge between the top and bottom wooden pieces. We also attached the arm to the skeleton and programmed its movements. It was fascinating to see how simple code adjustments, such as changing speed or repetitions, could completely transform the puppet's behavior and the way we perceive it.
+
+## November 7 2024
+
+Today, we began prototyping the moving stomach element. We’re still figuring out how to configure the servo to push the panel up and down while ensuring it remains stable enough to support the pillow. After exploring several materials, we’ve decided to stick with aluminum, as we did for the puppet mechanism, due to its durability and reliability.
+
+## November 12 2024
+
+Today, we completed the prototype for the stomach movement mechanism and obtained the correct measurements. We also started cutting the aluminum and applied the two nuts trick that our professor taught us to ensure smooth rotations between the joints. When we tried adding the panel, we realized there wasn’t enough reinforcement, so we may need to rethink the positioning of the pillow.
+
+## November 14 2024
+
+Today, we readjusted our previous work by moving the servo to the side inside, as our professor suggested for better stability. We also upgraded to a larger servo motor since the smaller one was too weak. After attaching all the pieces together, we’re now planning how to secure everything to the skeleton to ensure stability during the next class.
+
+## November 19 2024
+
+
