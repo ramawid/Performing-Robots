@@ -87,5 +87,11 @@ Today, we readjusted our previous work by moving the servo to the side inside, a
 
 ![IMG_3398](https://github.com/ramawid/Performing-Robots/blob/d1a21b646e358abc553b58785d164f4ec34a91fd/WhatsApp%20Image%202024-11-18%20at%2014.28.11.jpeg)
 ## November 19 2024
+Good news! Hind was able to finish the stomach of our detective. I think we spent alot of time on all these complex mechanisms when we could've simplified it and saved lots of time. Initially we had three joints trying to push the pillow up and down. Now we have a wood panel attached to the servo inside the pillow mimicking and up and down movement of a stomach when laughing. I also started prototyping the eyes. My goal is to have two stryofoam eyeballs that move left and right while also keeping the mechanism fairly simple because that's what's been working best recently.
+
+## November 21 2024
+Eyeballs are done!
+<img src="https://media.giphy.com/media/7JpxzxNRTytGuXqbr4/giphy.gif" width="480" height="274" />
+
 
 
