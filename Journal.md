@@ -57,7 +57,8 @@ A motor in the puppet’s jaw opens and closes its mouth, synchronized with its 
 
 Today, we focused on completing the framework of the robot, assembling all the key components to support the sock puppet arm. Next, we attempted to design a mechanism for moving the jaw to simulate speech using a servo motor. However, we encountered a problem—the servo motor we attached to the wooden pieces with hot glue turned out to be faulty. Our next step will be to carefully remove the hot glue and replace it with a functional motor.
 
-![IMG_3398](https://github.com/ramawid/Performing-Robots/blob/dbb0c351a0aeee96c6fcf14583423fe4a1022113/WhatsApp%20Image%202024-11-19%20at%2001.27.35.jpeg)
+<img src="https://github.com/ramawid/Performing-Robots/blob/dbb0c351a0aeee96c6fcf14583423fe4a1022113/WhatsApp%20Image%202024-11-19%20at%2001.27.35.jpeg" width="480" />
+
 
 ## October 31 2024
 
@@ -67,7 +68,8 @@ Today, we discovered that the sock puppet's jaw didn't open as wide as we intend
 
 Today, we finalized our puppet by fabricating the pieces out of aluminum. The first piece rotates with the servo motor, the second serves as a bridge between the top and bottom wooden pieces. We also attached the arm to the skeleton and programmed its movements. It was fascinating to see how simple code adjustments, such as changing speed or repetitions, could completely transform the puppet's behavior and the way we perceive it.
 
-![IMG_3398](https://github.com/ramawid/Performing-Robots/blob/dbb0c351a0aeee96c6fcf14583423fe4a1022113/WhatsApp%20Image%202024-11-19%20at%2001.28.02.jpeg)
+<img src="https://github.com/ramawid/Performing-Robots/blob/dbb0c351a0aeee96c6fcf14583423fe4a1022113/WhatsApp%20Image%202024-11-19%20at%2001.28.02.jpeg" width="480" />
+
 
 ## November 7 2024
 
@@ -77,7 +79,8 @@ Today, we began prototyping the moving stomach element. We’re still figuring o
 
 Today, we completed the prototype for the stomach movement mechanism and obtained the correct measurements. We also started cutting the aluminum and applied the two nuts trick that our professor taught us to ensure smooth rotations between the joints. When we tried adding the panel, we realized there wasn’t enough reinforcement, so we may need to rethink the positioning of the pillow.
 
-![IMG_3398](https://github.com/ramawid/Performing-Robots/blob/dbb0c351a0aeee96c6fcf14583423fe4a1022113/WhatsApp%20Image%202024-11-19%20at%2001.28.35.jpeg)
+<img src="https://github.com/ramawid/Performing-Robots/blob/dbb0c351a0aeee96c6fcf14583423fe4a1022113/WhatsApp%20Image%202024-11-19%20at%2001.28.35.jpeg" width="480" />
+
 
 ## November 14 2024
 
