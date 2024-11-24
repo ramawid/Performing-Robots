@@ -83,9 +83,10 @@ Today, we completed the prototype for the stomach movement mechanism and obtaine
 
 Today, we readjusted our previous work by moving the servo to the side inside, as our professor suggested for better stability. We also upgraded to a larger servo motor since the smaller one was too weak. After attaching all the pieces together, we’re now planning how to secure everything to the skeleton to ensure stability during the next class.
 
-<img src="https://github.com/ramawid/Performing-Robots/blob/dbb0c351a0aeee96c6fcf14583423fe4a1022113/WhatsApp%20Image%202024-11-19%20at%2001.29.16.jpeg" width="480" height="274" />
+<img src="https://github.com/ramawid/Performing-Robots/blob/dbb0c351a0aeee96c6fcf14583423fe4a1022113/WhatsApp%20Image%202024-11-19%20at%2001.29.16.jpeg" width="480" />
 
-<img src="https://github.com/ramawid/Performing-Robots/blob/d1a21b646e358abc553b58785d164f4ec34a91fd/WhatsApp%20Image%202024-11-18%20at%2014.28.11.jpeg" width="480" height="274" />
+<img src="https://github.com/ramawid/Performing-Robots/blob/d1a21b646e358abc553b58785d164f4ec34a91fd/WhatsApp%20Image%202024-11-18%20at%2014.28.11.jpeg" width="480" />
+
 
 ## November 19 2024
 Good news! Hind was able to finish the stomach of our detective. I think we spent alot of time on all these complex mechanisms when we could've simplified it and saved lots of time. Initially we had three joints trying to push the pillow up and down. Now we have a wood panel attached to the servo inside the pillow mimicking and up and down movement of a stomach when laughing. I also started prototyping the eyes. My goal is to have two stryofoam eyeballs that move left and right while also keeping the mechanism fairly simple because that's what's been working best recently.
