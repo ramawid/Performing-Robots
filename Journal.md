@@ -91,7 +91,10 @@ Good news! Hind was able to finish the stomach of our detective. I think we spen
 
 ## November 21 2024
 Eyeballs are done!
+
 <img src="https://media.giphy.com/media/7JpxzxNRTytGuXqbr4/giphy.gif" width="480" height="274" />
+
+I made this setup using a single servo motor to move two styrofoam eyeballs in sync. The eyeballs are attached to wooden sticks, connected by an acrylic rod that’s hooked up to the servo. When the servo moves, it tilts the rod, making the eyes shift side to side. It’s a simple and fun design, perfect for interactive projects or just messing around with animatronics!
 
 
 
